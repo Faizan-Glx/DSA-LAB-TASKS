@@ -1,2 +1,0 @@
-# DSA lab tasks
-
