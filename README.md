@@ -1,2 +1,2 @@
-# Lab-1-DSA
+# DSA lab tasks
 This is DSA first lab.
